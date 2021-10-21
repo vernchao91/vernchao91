@@ -9,7 +9,7 @@
 
 🌱 Frameworks that I am currently learning are 🐍 Python, Django, 🔥Firebase and  C++. I'm determined to expand my knowledge constantly.
 
-🖥🖱️🎮🏀🏈⚽ A few things about myself is that I'm very competitive. I love playing games and sports and I also love watching sports and esports. My passion grows from using technology at such a young age! I now love the fact that I can use my knowledge to make my career part of my hobby!
+🖥🖱️🎮🏀🏈⚽ A few things about myself is that I'm very competitive. I love playing games and sports and I also love watching sports and esports. My passion for technology grew at an early age! I now love the fact that I can use my knowledge to make my career part of my hobby!
 
 📫 Want to connect? Find my socials here!
 <br>
