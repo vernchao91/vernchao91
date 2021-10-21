@@ -7,19 +7,20 @@
 
 🏃‍♂️ [MazeRunner](https://vernchao91.github.io/Maze_Runner/) was created for my passion for gaming. I made this game as a casual escape the maze gameplay with obstacles to avoid or get through.
 
+🌱 Frameworks that I am currently learning are Python, Django, Firebase and C++. I'm determined to expand my knowledge constantly. Don't be surprised if I just become the jack of all trades!
+
 🎮🏀🏈⚽ A few things about myself is that I'm very competitive. I love playing games and sports and I also love watching sports and esports. My passion grows from using technology at such a young age! I now love the fact that I can use my knowledge to make my career part of my hobby!
 
-<details>
-<summary>📫 Want to connect? Find my socials here!</summary>
+📫 Want to connect? Find my socials here!
 <br>
-  🔗 <a href="www.linkedin.com/in/vern-chao-a8201a1ba">LinkedIn</a> 
+🔗 [LinkedIn](www.linkedin.com/in/vern-chao-a8201a1ba)
 <br>
-  👼 <a href="www.angel.co/u/vern-chien-chao">AngelList</a> 
+👼 [AngelList](www.angel.co/u/vern-chien-chao)
 <br>
- 🐦 <a href="www.twitter.com/vernchao91">Twitter</a> 
+🐦 [Twitter](www.twitter.com/vernchao91)
 <br>
-  <a href="mailto.vernchao91@gmail.com">vernchao91@gmail.com</a> 
-</details>
+vernchao91@gmail.com
+
 
 <!--
 **vernchao91/vernchao91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
