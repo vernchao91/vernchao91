@@ -13,11 +13,11 @@
 
 📫 Want to connect? Find my socials here!
 <br>
-🔗 [LinkedIn](www.linkedin.com/in/vern-chao-a8201a1ba)
+🔗 [LinkedIn](https://www.linkedin.com/in/vern-chao-a8201a1ba)
 <br>
-👼 [AngelList](www.angel.co/u/vern-chien-chao)
+👼 [AngelList](https://www.angel.co/u/vern-chien-chao)
 <br>
-🐦 [Twitter](www.twitter.com/vernchao91)
+🐦 [Twitter](https://www.twitter.com/vernchao91)
 <br>
 vernchao91@gmail.com
 <!--
