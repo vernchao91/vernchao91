@@ -3,16 +3,9 @@
 📫
 
 <details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
-
-
-<details>
 <summary>Want to connect? Find my socials here!</summary>
 <br>
-[LinkedIn] (https://www.linkedin.com/in/vern-chao-a8201a1ba/)
+[LinkedIn](https://www.linkedin.com/in/vern-chao-a8201a1ba/)
 </details>
 
 <!--
