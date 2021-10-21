@@ -1,5 +1,5 @@
 ### Hi there, I'm Vern Chien Chao! 👋
-💻 I am a Full stack developer. I have a passion for using my knowledge for my career and my hobbies!
+💻 I am a Full Stack developer. I'm using my skills and passion to extend to my career and hobbies!
 
 ✂️ [cutabove](https://pacific-sea-61217.herokuapp.com/#/) is an app created for salons, barbers and freelancers that can easily get appointment bookings and reviews. It is intended to be exclusive for people all around the US to book appointments for haircuts, hairstyles, or whatever they would like to get done.
 
