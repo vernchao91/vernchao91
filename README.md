@@ -6,10 +6,12 @@
 <summary>📫 Want to connect? Find my socials here!</summary>
 <br>
   [LinkedIn](https://www.linkedin.com/in/vern-chao-a8201a1ba/)
- <br>
+<br>
   [Twitter](https://twitter.com/vernchao91)
- <br>
+<br>
   [AngelList](https://angel.co/u/vern-chien-chao)
+<br>
+  vernchao91@gmail.com
 </details>
 
 
