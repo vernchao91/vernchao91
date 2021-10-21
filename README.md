@@ -11,6 +11,8 @@
 
 🖥🖱️🎮⚡🏀🏈⚽ A few things about myself is that I'm very competitive. I love playing games and sports and I also love watching sports and esports. My passion for technology grew at an early age! I now love the fact that I can use my knowledge to make my career part of my hobby!
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vernchao91&count_private=true)]
+
 📫 Let's connect on my socials!
 <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/vern-chao-a8201a1ba)
