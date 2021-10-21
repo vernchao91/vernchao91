@@ -12,18 +12,14 @@
 <details>
 <summary>📫 Want to connect? Find my socials here!</summary>
 <br>
-  [LinkedIn](www.linkedin.com/in/vern-chao-a8201a1ba)
+  🔗 <a href="www.linkedin.com/in/vern-chao-a8201a1ba">LinkedIn</a> 
 <br>
-  [Twitter](www.twitter.com/vernchao91)
+  👼 <a href="www.angel.co/u/vern-chien-chao">AngelList</a> 
 <br>
-  [AngelList](www.angel.co/u/vern-chien-chao)
+ 🐦 <a href="www.twitter.com/vernchao91">Twitter</a> 
 <br>
-  vernchao91@gmail.com
+  <a href="mailto.vernchao91@gmail.com">vernchao91@gmail.com</a> 
 </details>
-
-
-
-
 
 <!--
 **vernchao91/vernchao91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
