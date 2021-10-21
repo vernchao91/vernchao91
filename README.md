@@ -1,7 +1,7 @@
 ### Hi there, I'm Vern Chien Chao! 👋
 💻 I am a Full stack developer. I have a passion for using my knowledge for my career and my hobbies!
 
-✂️ [cutabove](https://pacific-sea-61217.herokuapp.com/#/) is an app created for salons, barbers and freelancers that can easily get bookings, reviews and displayed. It is intended to be exclusive for people all around the US to book appointments for haircuts, hairstyles, or whatever they would like to get done.
+✂️ [cutabove](https://pacific-sea-61217.herokuapp.com/#/) is an app created for salons, barbers and freelancers that can easily get appointment bookings and reviews. It is intended to be exclusive for people all around the US to book appointments for haircuts, hairstyles, or whatever they would like to get done.
 
 🌀 [Echo](https://echo-discordclone.herokuapp.com/#/) is my full-stack application of a discord-clone. It has all of the core features that you would expect. Users can create/join servers, create channels and can post messages on channels via live messaging with action cable websockets!
 
