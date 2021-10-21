@@ -20,8 +20,6 @@
 🐦 [Twitter](www.twitter.com/vernchao91)
 <br>
 vernchao91@gmail.com
-
-:d
 <!--
 **vernchao91/vernchao91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
