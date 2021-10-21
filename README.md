@@ -1,11 +1,14 @@
-### Hi there, I'm Vern! 👋
+### Hi there, I'm Vern ! 👋
 🖥️ I am a Full stack developer. I have a passion for using my knowledge for my career and my hobbies!
 
+🎮
+
+🏀🏈⚽
 
 <details>
 <summary>📫 Want to connect? Find my socials here!</summary>
 <br>
-  [LinkedIn](https://www.linkedin.com/in/vern-chao-a8201a1ba/)
+  [LinkedIn](https://www.linkedin.com/in/vern-chao-a8201a1ba)
 <br>
   [Twitter](https://twitter.com/vernchao91)
 <br>
