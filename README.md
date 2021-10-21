@@ -1,12 +1,20 @@
 ### Hi there, I'm Vern! 👋
-💻 I am a Full stack developer and I specialize in React, Redux.
-📫
+🖥️ I am a Full stack developer. I have a passion for using my knowledge for my career and my hobbies!
+
 
 <details>
-<summary>Want to connect? Find my socials here!</summary>
+<summary>📫 Want to connect? Find my socials here!</summary>
 <br>
-[LinkedIn](https://www.linkedin.com/in/vern-chao-a8201a1ba/)
+  [LinkedIn](https://www.linkedin.com/in/vern-chao-a8201a1ba/)
+ <br>
+  [Twitter](https://twitter.com/vernchao91)
+ <br>
+  [AngelList](https://angel.co/u/vern-chien-chao)
 </details>
+
+
+
+
 
 <!--
 **vernchao91/vernchao91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
