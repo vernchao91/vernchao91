@@ -19,6 +19,13 @@
   
 </details>
 
+<details closed>
+  <summary>My Top Languages ☕ </summary>
+  <br>
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vernchao91)](https://github.com/vernchao91/github-readme-stats) 
+  
+</details>
 
 📫 Let's connect on my socials!
 <br>
