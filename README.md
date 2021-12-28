@@ -3,7 +3,7 @@
 
 ✂️ [cutabove](https://pacific-sea-61217.herokuapp.com/#/) is an app created for salons, barbers and freelancers that can easily get appointment bookings and reviews. It is intended to be exclusive for people all around the US to book appointments for haircuts, hairstyles, or whatever they would like to get done.
 
-🌀 [Echo](https://echo-discordclone.herokuapp.com/#/) is my full-stack application discord-clone. It has all of the core features that you would expect. Users can create/join servers, create channels and can post messages on channels via live messaging with action cable websockets!
+🌀 [Echo](https://echo-discordclone.herokuapp.com/#/) is my full-stack application discord-clone. It has all of the core features that you would expect. Users can create/join/leave servers, create/delete/edit channels and can post messages on channels via live messaging with action cable websockets!
 
 🏃‍♂️ [MazeRunner](https://vernchao91.github.io/Maze_Runner/) was created from my gaming passion. I made this game as a casual escape the maze gameplay with obstacles to avoid or get through.
 
