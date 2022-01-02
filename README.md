@@ -5,11 +5,11 @@
 
 🌀 [Echo](https://echo-discordclone.herokuapp.com/#/) is my full-stack application discord-clone. It has all of the core features that you would expect. Users can create/join/leave servers, create/delete/edit channels and can post messages on channels via live messaging with action cable websockets!
 
-🏃‍♂️ [MazeRunner](https://vernchao91.github.io/Maze_Runner/) was created from my gaming passion. This game was made as a typical maze with obstacles to hurdle. Open doors with switch or key to escape the maze!
+🏃‍♂️ [MazeRunner](https://vernchao91.github.io/Maze_Runner/) was created from my gaming passion. This game was made as a typical maze with obstacles to hurdle. Open doors with a switch or key to escape the maze!
 
 🌱 Frameworks that I am currently learning are 🐍 Python, Django, 🔥Firebase and  C➕➕. I'm determined to continuously expand my knowledge.
 
-🖥🖱️🎮⚡🏀🏈⚽ A few things about myself is that I'm very competitive. I love playing and watching sports. I also love playing video games and watching competitive esports. My passion for technology grew at an early age! I now use my love for technology in tandem with my career and hobbies!
+🖥🖱️🎮⚡🏀🏈⚽ A few things about myself is that I'm very competitive. I love playing and watching sports. I also love playing video games and watching competitive esports. My passion for technology grew at an early age! I now use my love for technology with my career and hobbies!
 
 <details closed>
   <summary>GitHub Stats 📈</summary>
