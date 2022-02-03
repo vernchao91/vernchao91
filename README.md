@@ -7,7 +7,7 @@
 
 🏃‍♂️ [MazeRunner](https://vernchao91.github.io/Maze_Runner/) was created from my gaming passion. This game was made as a typical maze with obstacles to hurdle. Open doors with a switch or key to escape the maze!
 
-🌱 Frameworks that I am currently learning are 🐍 Python, Django, 🔥Firebase and  C➕➕. I'm determined to continuously expand my knowledge.
+🌱 Frameworks that I am currently learning are 🐍 Python, 🧴 Flask, 🔄 Recoil and TypeScript. I'm determined to continuously expand my knowledge.
 
 🖥🖱️🎮⚡🏀🏈⚽ A few things about myself is that I'm very competitive. I love playing and watching sports. I also love playing video games and watching competitive esports. My passion for technology grew at an early age! I now use my love for technology with my career and hobbies!
 
