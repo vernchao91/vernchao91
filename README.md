@@ -33,8 +33,6 @@
 <br>
 👼 [AngelList](https://www.angel.co/u/vern-chien-chao)
 <br>
-🐦 [Twitter](https://www.twitter.com/vernchao91)
-<br>
 vernchao91@gmail.com
 <!--
 **vernchao91/vernchao91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
